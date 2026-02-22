@@ -2,3 +2,5 @@ sql/01_create_database.sql
 
 -- Create database script
 CREATE DATABASE prime_mart;
+
+Add sql folder with 01_create_database.sql
